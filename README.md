@@ -7,15 +7,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">Obtaining a certificate in Fullstack Web Development was a significant achievement for me, and I am proud to have graduated from Route Academy in 2023. The skills I gained during my time there have equipped me to excel in the field of web development and I am eager to apply my knowledge to real-world projects , <br><br>I passionately dedicating myself to the pursuit of enhancing my skills through diligent work and constant improvement. I am eager to learn and develop new abilities, as I believe that personal development is the key to success in every aspect of life.</p>
+<p align="center">Obtaining a certificate in Fullstack Web Development was a significant achievement for me, and I am proud to have graduated from Route Academy in 2023. The skills I gained during my time there have equipped me to excel in the field of web development and I am eager to apply my knowledge to real-world projects , <br><br>I passionately dedicating myself to the pursuit of enhancing my skills through diligent work and constant improvement. I am eager to learn and develop new abilities, as I believe that personal development is the key to success in every aspect of life.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center" margin-top="5px">I code with</h2>
 
 ###
 
