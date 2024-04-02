@@ -3,7 +3,7 @@
 ###
 
 <h4 align="center">My name is Mohamed and I'm a Frontend Dev from Egypt</h4>
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="25%">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="25%">
 ###
 
 <h2 align="center">About me</h2>
