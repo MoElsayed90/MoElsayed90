@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="200" src="  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>"  />
+<img align="left" height="200" src="<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>"  />
 
 ###
 
