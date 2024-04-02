@@ -3,8 +3,6 @@
 ###
 
 <h4 align="center">My name is Mohamed and I'm a Frontend Dev from Egypt</h4>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="25%" hight="50%">
-
 
 ###
 
@@ -12,15 +10,19 @@
 
 ###
 
+<img align="left" height="200" src="  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>"  />
+
+###
+
 <p align="center">Obtaining a certificate in Fullstack Web Development was a significant achievement for me, and I am proud to have graduated from Route Academy in 2023. The skills I gained during my time there have equipped me to excel in the field of web development and I am eager to apply my knowledge to real-world projects , <br><br>I passionately dedicating myself to the pursuit of enhancing my skills through diligent work and constant improvement. I am eager to learn and develop new abilities, as I believe that personal development is the key to success in every aspect of life.</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
