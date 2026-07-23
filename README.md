@@ -1,46 +1,18 @@
 # Mohamed Elsayed
 
-*Full-Stack Product Engineer · multi-tenant SaaS, RBAC, and Arabic-first/RTL systems for international teams.*
+Full-Stack Product Engineer.
 
----
+I decide, then I build, then I stand behind it. Access boundaries, the second language, the performance budget: these are architecture decisions made before the first screen exists, not patches added after.
 
-## How I Think
+Most of that shows up lately as multi-tenant SaaS, RBAC, and Arabic-first/RTL systems for international teams, each one worked the same way: situation, decision, reasoning, result. I write these up properly at [mohamed-elsayed.com/about](https://mohamed-elsayed.com/about).
 
-Decide the hard structural questions before the first screen exists. Access boundaries, data ownership, the second language, the performance budget: these are architecture decisions, not patches. Retrofitting any of them costs roughly ten times what deciding them correctly, upfront, would have.
+**Currently:** full technical ownership of a live multi-branch currency exchange platform, architecture, backend, and production infrastructure, solo.
 
-## How I Approach a System
+**Recent work:**
+- [Kurier Link](https://kurier-link.com), multi-tenant P2P logistics across Germany and Poland
+- [Akarat](https://akarat.net), a bilingual real estate marketplace, RTL-native from the first component
+- [Maktaby](https://maktaby.online), an Arabic-first legal practice platform
 
-The business problem first, then the technical one: every product I've shipped started from a market or user gap, not a feature request.
+Full case studies at [mohamed-elsayed.com](https://mohamed-elsayed.com).
 
-From there, one shape, every time:
-
-| | |
-|---|---|
-| **Situation** | what's actually true, unresolved, ambiguous |
-| **Decision** | the specific call, stated plainly |
-| **Reasoning** | why that call, given the constraints |
-| **Result** | what happened, in numbers |
-
-See it applied to three real systems in [**How I Think**](https://mohamed-elsayed.com/about).
-
----
-
-### Currently
-
-Full technical ownership of a live multi-branch currency exchange platform: architecture, backend, and production infrastructure, solo.
-
-### Selected Work
-
-| Project | Focus | Link |
-|---|---|---|
-| **Kurier Link** | Multi-tenant P2P logistics, Germany / Poland | [kurier-link.com](https://kurier-link.com) |
-| **Akarat** | Bilingual real estate marketplace, RTL-native | [akarat.net](https://akarat.net) |
-| **Maktaby** | Arabic-first legal practice platform | [maktaby.online](https://maktaby.online) |
-
-Full case studies at [mohamed-elsayed.com/work](https://mohamed-elsayed.com/work).
-
----
-
-### Contact
-
-🌐 [mohamed-elsayed.com](https://mohamed-elsayed.com) · 💼 [LinkedIn](https://linkedin.com/in/mohamed-elsayedmc) · ✉️ mohamedelsayedmc@gmail.com
+[mohamed-elsayed.com](https://mohamed-elsayed.com) · [LinkedIn](https://linkedin.com/in/mohamed-elsayedmc) · mohamedelsayedmc@gmail.com
